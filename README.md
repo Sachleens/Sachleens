@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=900&lines=Cloud+%7C+DevOps+%7C+IoT+%7C+Autonomous+Systems;Building+Voice-Controlled+Car+Automation;AWS+%7C+Docker+%7C+Kafka+%7C+Python+%7C+OpenCV;Motorsports+Fan+%7C+Music+Producer+%7C+Tech+Explorer" alt="Animated profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=950&lines=Cloud+%7C+Infrastructure+%7C+DevOps+%7C+IoT+%7C+Autonomous+Systems;Building+Voice-Controlled+Car+Automation;AWS+%7C+Docker+%7C+Kafka+%7C+Python+%7C+OpenCV;Motorsports+Fan+%7C+Music+Producer+%7C+Tech+Explorer" alt="Animated profile intro" />
 </p>
 
 ---
