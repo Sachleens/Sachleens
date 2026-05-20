@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c2d12,22:d97706,52:facc15,78:fff7ad,100:f59e0b&height=250&section=header&text=Yellow%20Brick%20Road&fontSize=62&fontColor=2b2100&animation=twinkling&fontAlignY=35&desc=Cloud%20%7C%20DevOps%20%7C%20IoT%20%7C%20Autonomous%20Systems&descSize=19&descAlignY=59&descColor=4a3600" alt="Animated Yellow Brick Road profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c2d12,22:d97706,52:facc15,78:fff7ad,100:f59e0b&height=250&section=header&text=Yellow%20Brick%20Road&fontSize=62&fontColor=2b2100&animation=twinkling&fontAlignY=35&desc=Cloud%20%7C%20Agent%20%7C%20IoT%20%7C%20Autonomous%20Systems&descSize=19&descAlignY=59&descColor=4a3600" alt="Animated Yellow Brick Road profile header" />
 </p>
 
-<h2 align="center">Following the Yellow Brick Road, Building simple paths through cloud, AI, IoT, and autonomous systems.</h2>
+<h2 align="center">Following the Yellow Brick Road, Building simple paths through cloud, AI Agent, IoT, and autonomous systems.</h2>
 
 
 
@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=950&lines=Cloud+%7C+Infrastructure+%7C+DevOps+%7C+IoT+%7C+Autonomous+Systems;Building+Voice-Controlled+Car+Automation;AWS+%7C+Docker+%7C+Kafka+%7C+Python+%7C+OpenCV;Motorsports+Fan+%7C+Music+Producer+%7C+Tech+Explorer" alt="Animated profile intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=950&lines=Cloud+%7C+Infrastructure+%7C+Agents+%7C+IoT+%7C+Autonomous+Systems;Building+Voice-Controlled+Car+Automation;AWS+%7C+Docker+%7C+Kafka+%7C+Python+%7C+OpenCV;Motorsports+Fan+%7C+Music+Producer+%7C+Tech+Explorer" alt="Animated profile intro" />
 </p>
 
 ---
